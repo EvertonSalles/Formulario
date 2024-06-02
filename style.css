@@ -1,0 +1,49 @@
+*{
+font-family: arial;
+margin: 7px 10px;
+
+
+}
+
+body{
+   background-color: #B0E0E6;
+    
+}
+
+.container{
+    background-color: #E0FFFF ;
+    margin-top: 30px;
+    width: 610px;
+    height: 550px;
+
+}
+
+h2{
+font-size: medium;
+color:#1C1C1C;
+}
+
+
+input{
+    height: 23px;
+    width: 300px;
+
+}
+
+.mensagem{
+height: 70px;
+width: 400px;
+}
+
+
+button{
+background-color:#1E90FF ;
+height: 60px;
+margin-top: 3px;
+width: 360px  ;
+border: solid 1px;
+color: #F0FFFF;
+text-align: center;
+padding-left: 20px;
+}
+
